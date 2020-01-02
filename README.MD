@@ -2,9 +2,15 @@ This pages contains links to books, websites, galleries that feature p5.js
 
 p5.js is the javascript library for creative coding, a 2012 offspring to the processing project that is running since 2003.
 
-## Main Sites
+## Main Web Sites
 + https://p5js.org/
 + https://www.processing.org/
+
+### Community Sites
++ OpenProcessing https://www.openprocessing.org
+
+### Online Coding Sites
++ 
 
 ## Books
 There are a lot of books available for Processing, few only that are specifically targeting P5.js.
@@ -22,6 +28,7 @@ There are a lot of books available for Processing, few only that are specificall
 ## Galleries and Artists
 + https://www.rand-on.com/ By B. Habert
 + Inconvergent https://inconvergent.net/ by Anders Hoff
++ Gallery of Computing http://www.complexification.net by Jared S Tarbell
 
 ## Tutorials
 Without doubt the most relevant processing, p5.js and javascript,etc video tutorials are provided by Dan Shiffmann.
