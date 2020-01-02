@@ -7,5 +7,9 @@ p5.js is the javascript library for creative coding, a 2012 offspring to the pro
 
 ## Books
 + http://www.generative-gestaltung.de/2/
+
+## Galleries and Artists
++ https://www.rand-on.com/ By B. Habert
+
 ## Tutorials
 Without doubt the most relevant processing, p5.js and javascript,etc video tutorials are provided by Dan Shiffmann.
