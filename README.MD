@@ -10,7 +10,8 @@ p5.js is the javascript library for creative coding, a 2012 offspring to the pro
 + OpenProcessing https://www.openprocessing.org
 
 ### Online Coding Sites
-+ 
++ https://editor.p5js.org/
++ https://codepen.io/
 
 ## Books
 There are a lot of books available for Processing, few only that are specifically targeting P5.js.
@@ -38,3 +39,8 @@ Without doubt the most relevant processing, p5.js and javascript,etc video tutor
 + Code! Programming with p5.js - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 + 10: Working with data https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
 + 13: What is Perlin Noise? https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD
+
+### Machne Learning Playlist on Youtube (by Dan)
++ https://ml5js.org/
++ Beginner's Guide to Machine Learning in JavaScript https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
++ Sourcode for Tutorials https://github.com/ml5js/Intro-ML-Arts-IMA
