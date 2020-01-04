@@ -12,6 +12,8 @@ p5.js is the javascript library for creative coding, a 2012 offspring to the pro
 ### Online Coding Sites
 + https://editor.p5js.org/
 + https://codepen.io/
++ https://jsbin.com
++ https://jsfiddle.net/
 
 ## Books
 There are a lot of books available for Processing, few only that are specifically targeting P5.js.
